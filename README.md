@@ -1,2 +1,5 @@
-# Flutter---Paginated-List
-Paginated List / BloC / Kiwi
+# Flutter Paginated List
+
+Paginated List Application built with Flutter 
+
+BloC / Kiwi
